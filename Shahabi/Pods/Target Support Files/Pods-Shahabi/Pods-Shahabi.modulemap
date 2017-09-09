@@ -1,0 +1,6 @@
+framework module Pods_Shahabi {
+  umbrella header "Pods-Shahabi-umbrella.h"
+
+  export *
+  module * { export * }
+}
